@@ -88,4 +88,4 @@ git pull origin main
 
 - All solutions will be uploaded to main.
 
-- All tasks will be posted on the [wiki](https://github.com/Yaswanth-B/IECSE-ML-Summer-Bootcamp-2022.git/wiki).
+- All tasks will be posted on the [wiki](https://github.com/Yaswanth-B/IECSE-ML-Summer-Bootcamp-2022/wiki).
