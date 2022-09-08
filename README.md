@@ -64,7 +64,7 @@ Format - ```Task #<task-no.> : description```. Mention any errors or issues in t
  git config --global user.name "[name]"
  git config --global user.email "[email address]"
  git clone https://github.com/Yaswanth-B/IECSE-ML-Summer-Bootcamp-2022.git
- cd IECSE-ML-Winter-2020
+ cd IECSE-ML-Summer-Bootcamp-2022
  ```
 
 ### Creating your own branch
@@ -88,4 +88,4 @@ git pull origin main
 
 - All solutions will be uploaded to main.
 
-- All tasks will be posted on the [wiki](https://github.com/Yaswanth-B/IECSE-ML-Summer-Bootcamp-2022.git).
+- All tasks will be posted on the [wiki](https://github.com/Yaswanth-B/IECSE-ML-Summer-Bootcamp-2022.git/wiki).
